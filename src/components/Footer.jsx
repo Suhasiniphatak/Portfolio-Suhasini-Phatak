@@ -9,8 +9,8 @@ const Footer = () => {
         <p>Designed & Built with React</p>
 
         <div className="footer-links">
-          <a href="#">LinkedIn</a>
-          <a href="#">GitHub</a>
+          <a href="https://www.linkedin.com/in/suhasini-phatak-80b75125b/">LinkedIn</a>
+          <a href="https://github.com/Suhasiniphatak">GitHub</a>
         </div>
       </div>
     </footer>
