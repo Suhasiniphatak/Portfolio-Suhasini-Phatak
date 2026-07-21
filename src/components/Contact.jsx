@@ -32,12 +32,12 @@ const Contact = () => {
         </div>
 
         <div className="contact-links">
-          <a href="#" className="contact-link">
+          <a href="https://www.linkedin.com/in/suhasini-phatak-80b75125b/" className="contact-link">
             <span>LinkedIn</span>
             <span>↗</span>
           </a>
 
-          <a href="#" className="contact-link">
+          <a href="https://github.com/Suhasiniphatak" className="contact-link">
             <span>GitHub</span>
             <span>↗</span>
           </a>
