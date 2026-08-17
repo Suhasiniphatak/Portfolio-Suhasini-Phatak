@@ -19,40 +19,35 @@ const About = () => {
           <h3>Designing with purpose. Building with code.</h3>
 
           <p>
-            I am a UI/UX Designer with 10 months of professional experience,
-            passionate about creating clean and user-focused digital
-            experiences.
+            I am a Frontend Developer with professional UI/UX design experience, focused on building clean, responsive, and user-friendly web applications.
           </p>
 
           <p>
-            With a background in Electronics and Communication Engineering, I
-            am currently transitioning into Frontend Development and building
-            interactive web applications using React.
+            With a background in Electronics and Communication Engineering and UI/UX design, I build interactive web applications using React, JavaScript, and modern frontend technologies.
           </p>
 
           <p>
-            I enjoy combining design thinking with frontend development to
-            create interfaces that are both visually appealing and functional.
+            I combine design thinking with frontend development to create interfaces that are visually polished, responsive, accessible, and functional.
           </p>
         </div>
 
         <div className="about-highlights">
           <div className="highlight-card">
             <span>01</span>
-            <h3>UI/UX Designer</h3>
+            <h3>UI/UX Design</h3>
             <p>Professional design experience</p>
           </div>
 
           <div className="highlight-card">
             <span>02</span>
             <h3>React Developer</h3>
-            <p>Building modern web applications</p>
+            <p>Building responsive React applications</p>
           </div>
 
           <div className="highlight-card">
             <span>03</span>
             <h3>ECE Graduate</h3>
-            <p>Engineering background</p>
+            <p>Electronics & Communication Engineering</p>
           </div>
         </div>
       </div>
