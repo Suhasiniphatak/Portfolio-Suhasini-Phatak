@@ -2,39 +2,40 @@ import { motion } from "framer-motion";
 
 const Projects = () => {
   const projects = [
+    
     {
       number: "01",
-      title: "AI Mock Interview Platform",
-      type: "React + Full Stack Application",
-      image: "/ai-mock-interview.png",
-      liveLink:
-        "https://ai-mock-interview-platform-mauve-kappa.vercel.app/",
-      githubLink:
-        "https://github.com/Suhasiniphatak/AI-Mock-Interview-Platform",
-      description:
-        "An AI-powered mock interview platform that allows users to practice interviews and receive feedback on their responses.",
-      technologies: [
-        "React",
-        "JavaScript",
-        "Express.js",
-        "REST API",
-      ],
-    },
-
-    {
-      number: "02",
       title: "AI Resume Analyzer",
-      type: "React + Backend Application",
+      type: "REACT+ AI APPLICATION",
       image: "/ai-resume-analyzer.png",
       liveLink:
         "https://ai-resume-analyzer-jet-chi.vercel.app/",
       githubLink:
         "https://github.com/Suhasiniphatak/AI-Resume-Analyzer",
       description:
-        "A resume analysis application that evaluates resumes and provides useful suggestions to improve their quality and impact.",
+        "A React-based AI resume analyzer that allows users to upload resumes, analyze their content, identify skills, evaluate resume quality, and receive actionable improvement suggestions.",
       technologies: [
         "React",
         "Tailwind CSS",
+        "Express.js",
+        "REST API",
+        "Google Gemini AI",
+      ],
+    },
+    {
+      number: "02",
+      title: "AI Mock Interview Platform",
+      type: "REACT+ AI APPLICATION",
+      image: "/ai-mock-interview.png",
+      liveLink:
+        "https://ai-mock-interview-platform-mauve-kappa.vercel.app/",
+      githubLink:
+        "https://github.com/Suhasiniphatak/AI-Mock-Interview-Platform",
+      description:
+        "An interactive React application that helps users practice technical interviews with AI-generated questions, evaluate their responses, and review interview results through a responsive dashboard.",
+      technologies: [
+        "React",
+        "JavaScript",
         "Express.js",
         "REST API",
       ],
@@ -95,7 +96,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Live ↗
+                  Live Demo ↗
                 </a>
 
                 <a
@@ -103,7 +104,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Code ↗
+                  Github ↗
                 </a>
               </div>
             </div>

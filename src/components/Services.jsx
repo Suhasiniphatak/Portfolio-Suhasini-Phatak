@@ -4,29 +4,29 @@ const Services = () => {
   const services = [
     {
       number: "01",
-      title: "UI/UX Design",
+      title: "Design to Code",
       description:
-        "Creating clean, intuitive, and user-focused interfaces using design thinking and modern UI/UX principles.",
+        "Turning UI/UX designs into clean, responsive, and functional web interfaces using modern frontend technologies.",
     },
     {
       number: "02",
       title: "Frontend Development",
       description:
-        "Building interactive and responsive web applications using React, JavaScript, and modern frontend technologies.",
+        "Building interactive and responsive web applications using React, JavaScript, and reusable components.",
     },
     {
       number: "03",
-      title: "Responsive Web Design",
+      title: "Responsive Interfaces",
       description:
-        "Translating designs into responsive interfaces that provide a consistent experience across different screen sizes.",
+        "Creating responsive interfaces that provide a consistent and user-friendly experience across desktop, tablet, and mobile devices.",
     },
   ];
 
   return (
     <section className="services">
       <div className="section-heading">
-        <p>WHAT I DO</p>
-        <h2>Services</h2>
+        <p>WHAT I BUILD</p>
+        <h2>What I Build</h2>
       </div>
 
       <div className="services-grid">

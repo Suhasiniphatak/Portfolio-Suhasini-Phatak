@@ -4,17 +4,17 @@ const Testimonials = () => {
   const approaches = [
     {
       quote:
-        "I approach every project by first understanding the user and the problem before thinking about the solution.",
+        "I start by understanding the user, the problem, and the goal before building the solution.",
       title: "User First",
     },
     {
       quote:
-        "My UI/UX experience helps me think beyond just writing code and focus on creating meaningful experiences.",
-      title: "Design Thinking",
+        "My UI/UX background helps me build interfaces that are not only functional, but also intuitive, accessible, and visually consistent.",
+      title: "Design + Code",
     },
     {
       quote:
-        "I am constantly learning, experimenting, and improving my frontend development skills.",
+        "I continuously improve my frontend skills by building projects, exploring new technologies, and learning from real-world development challenges.",
       title: "Always Learning",
     },
   ];
@@ -23,7 +23,7 @@ const Testimonials = () => {
     <section className="testimonials">
       <div className="section-heading">
         <p>MY APPROACH</p>
-        <h2>What I Believe In</h2>
+        <h2>How I Build</h2>
       </div>
 
       <div className="testimonial-grid">

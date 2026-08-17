@@ -23,18 +23,17 @@ const Experience = () => {
 
             <h3>Junior UI/UX Designer</h3>
 
-            <h4>Professional Experience</h4>
+            <h4>Swipewire Technologies, Chennai</h4>
 
             <p>
-              Working on user interface and user experience design, creating
-              clean and intuitive digital experiences using Figma and modern
-              design principles.
+              Designing responsive and user-focused interfaces using Figma, reusable components, design systems, and modern UI/UX principles. Collaborating with development teams to ensure designs are translated into consistent and functional web experiences.
             </p>
 
             <div className="experience-tags">
               <span>UI/UX</span>
               <span>Figma</span>
               <span>Design Systems</span>
+              <span>Responsive Design</span>
             </div>
           </div>
         </div>
@@ -50,13 +49,12 @@ const Experience = () => {
             <h4>KLS VDIT, Haliyal</h4>
 
             <p>
-              Built a strong foundation in engineering, problem solving, and
-              technology while developing an interest in software and frontend
-              development.
+              Bachelor's degree in Electronics and Communication Engineering, with a foundation in problem-solving, programming, and technology.
             </p>
 
             <div className="experience-tags">
               <span>Engineering</span>
+              <span>Electronics & Communication</span>
               <span>Problem Solving</span>
             </div>
           </div>

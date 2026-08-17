@@ -13,11 +13,10 @@ const Github = () => {
         <div>
           <p className="github-label">BUILDING IN PUBLIC</p>
 
-          <h2>Always learning. Always building.</h2>
+          <h2>Building. Learning. Improving.</h2>
 
           <p className="github-description">
-            I continuously work on personal projects and explore new
-            technologies to improve my frontend development skills.
+            I build and improve real-world frontend projects using React and modern web technologies while continuously strengthening my development skills.
           </p>
 
           <a
@@ -33,6 +32,10 @@ const Github = () => {
         <div className="github-visual">
           <div className="code-line">
             <span>const</span> developer = {"{"}
+          </div>
+
+          <div className="code-line indent">
+            <span>role:</span> Frontend Developer,
           </div>
 
           <div className="code-line indent">

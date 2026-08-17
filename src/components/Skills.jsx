@@ -10,6 +10,8 @@ const Skills = () => {
       "HTML5",
       "CSS3",
       "Tailwind CSS",
+      "Responsive Design",
+      "React Router",
     ],
   },
   {
@@ -18,7 +20,7 @@ const Skills = () => {
       "Node.js",
       "Express.js",
       "REST APIs",
-      "API Integration",
+      "REST API Integration",
     ],
   },
   {
@@ -29,6 +31,8 @@ const Skills = () => {
       "Git",
       "GitHub",
       "VS Code",
+      "Vite",
+      "npm",
     ],
   },
 ];

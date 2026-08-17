@@ -11,16 +11,15 @@ const Contact = () => {
     >
       <div className="section-heading">
         <p>GET IN TOUCH</p>
-        <h2>Let's Work Together</h2>
+        <h2>Let's Build Something Together</h2>
       </div>
 
       <div className="contact-container">
         <div className="contact-text">
-          <h3>Have a project in mind?</h3>
+          <h3>Looking for a Frontend Developer?</h3>
 
           <p>
-            I'm always open to discussing new opportunities, frontend
-            projects, and ways to create meaningful digital experiences.
+            I'm open to frontend development opportunities where I can contribute my UI/UX experience, React skills, and passion for building user-focused web applications.
           </p>
 
           <a
