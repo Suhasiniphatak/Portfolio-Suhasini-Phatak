@@ -17,19 +17,17 @@ const Hero = () => {
           </h1>
 
           <h2>
-            UI/UX Designer <span>→</span> Frontend Developer
+            Frontend Developer <span>|</span> UIUX Designer
           </h2>
 
           <p className="hero-description">
-            I create clean, user-focused digital experiences and build
-            interactive web applications using React and modern frontend
-            technologies.
+            I build responsive and interactive web applications using React, JavaScript, and modern frontend technologies, backed by a strong UI/UX design background.
           </p>
 
           <div className="hero-actions">
             {/* View My Work */}
             <a href="#projects" className="primary-button">
-              View My Work
+              View My Projects
             </a>
 
             {/* Download Resume */}
@@ -44,7 +42,7 @@ const Hero = () => {
 
           <div className="hero-stats">
             <div>
-              <h3>10+</h3>
+              <h3>11+</h3>
               <p>Months Experience</p>
             </div>
 
@@ -54,8 +52,8 @@ const Hero = () => {
             </div>
 
             <div>
-              <h3>∞</h3>
-              <p>Learning</p>
+              <h3>5+</h3>
+              <p>Technologies</p>
             </div>
           </div>
         </motion.div>
@@ -77,8 +75,7 @@ const Hero = () => {
             <h3>Building digital experiences.</h3>
 
             <p>
-              Combining design thinking with frontend development to create
-              meaningful web experiences.
+              Combining UI/UX expertise with React development to build responsive, user-focused web applications.
             </p>
 
             <div className="visual-tags">
