@@ -42,8 +42,8 @@ const Hero = () => {
 
           <div className="hero-stats">
             <div>
-              <h3>11+</h3>
-              <p>Months Experience</p>
+              <h3>1</h3>
+              <p>Year of Experience</p>
             </div>
 
             <div>
