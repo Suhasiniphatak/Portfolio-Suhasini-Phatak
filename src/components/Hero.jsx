@@ -10,14 +10,14 @@ const Hero = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="hero-label">WELCOME TO MY PORTFOLIO</p>
+          <p className="hero-label">UI/UX Designer & React Developer · Fintech</p>
 
           <h1>
             Hi, I'm <span>Suhasini</span>
           </h1>
 
           <h2>
-            Frontend Developer <span>|</span> UIUX Designer
+            Frontend Developer <span>|</span> UI/UX Designer
           </h2>
 
           <p className="hero-description">
