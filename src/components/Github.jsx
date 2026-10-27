@@ -11,12 +11,12 @@ const Github = () => {
     >
       <div className="github-container">
         <div>
-          <p className="github-label">BUILDING IN PUBLIC</p>
+          <p className="github-label">MY DEVELOPMENT JOURNEY</p>
 
           <h2>Building. Learning. Improving.</h2>
 
           <p className="github-description">
-            I build and improve real-world frontend projects using React and modern web technologies while continuously strengthening my development skills.
+            I build React projects to strengthen my frontend development skills, focusing on responsive layouts, reusable components, and user-friendly interfaces. Explore my GitHub to see my projects and ongoing learning.
           </p>
 
           <a

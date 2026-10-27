@@ -46,7 +46,7 @@ const Projects = () => {
     <section className="projects">
       <div className="section-heading">
         <p>MY RECENT WORK</p>
-        <h2>Featured Projects</h2>
+        <h2>Selected Projects</h2>
       </div>
 
       <div className="projects-list">

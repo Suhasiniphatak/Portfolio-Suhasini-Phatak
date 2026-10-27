@@ -34,19 +34,19 @@ const About = () => {
         <div className="about-highlights">
           <div className="highlight-card">
             <span>01</span>
-            <h3>UI/UX Design</h3>
-            <p>Professional design experience</p>
+            <h3>Product Design</h3>
+            <p>User flows, wireframes, prototypes and interface design</p>
           </div>
 
           <div className="highlight-card">
             <span>02</span>
-            <h3>React Developer</h3>
-            <p>Building responsive React applications</p>
+            <h3>Frontend Development</h3>
+            <p>React, JavaScript and responsive web projects</p>
           </div>
 
           <div className="highlight-card">
             <span>03</span>
-            <h3>ECE Graduate</h3>
+            <h3>Engineering Background</h3>
             <p>Electronics & Communication Engineering</p>
           </div>
         </div>

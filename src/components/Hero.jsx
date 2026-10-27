@@ -10,24 +10,24 @@ const Hero = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="hero-label">UI/UX Designer & React Developer · Fintech</p>
+          <p className="hero-label">UI/UX Designer · Frontend Development</p>
 
           <h1>
             Hi, I'm <span>Suhasini</span>
           </h1>
 
           <h2>
-            Frontend Developer <span>|</span> UI/UX Designer
+            UI/UX Designer <span>|</span> Frontend Developer
           </h2>
 
           <p className="hero-description">
-            I build responsive and interactive web applications using React, JavaScript, and modern frontend technologies, backed by a strong UI/UX design background.
+            Emphasize your professional product-design experience, Figma, and your growing React development skills.
           </p>
 
           <div className="hero-actions">
             {/* View My Work */}
             <a href="#projects" className="primary-button">
-              View My Projects
+              Explore My Work
             </a>
 
             {/* Download Resume */}
@@ -42,7 +42,7 @@ const Hero = () => {
 
           <div className="hero-stats">
             <div>
-              <h3>1</h3>
+              <h3>1+</h3>
               <p>Year of Experience</p>
             </div>
 
@@ -52,8 +52,8 @@ const Hero = () => {
             </div>
 
             <div>
-              <h3>5+</h3>
-              <p>Technologies</p>
+              <h3>Product Design</h3>
+              <p>Core Expertise</p>
             </div>
           </div>
         </motion.div>
@@ -67,21 +67,21 @@ const Hero = () => {
           <div className="visual-card">
             <div className="visual-top">
               <span className="status"></span>
-              Available for opportunities
+              Open for opportunities
             </div>
 
             <div className="visual-icon">{"</>"}</div>
 
-            <h3>Building digital experiences.</h3>
+            <h3>Design with purpose. Build with care.</h3>
 
             <p>
               Combining UI/UX expertise with React development to build responsive, user-focused web applications.
             </p>
 
             <div className="visual-tags">
+              <span>Figma</span>
               <span>React</span>
-              <span>JavaScript</span>
-              <span>UI/UX</span>
+              <span>Javascript</span>
             </div>
           </div>
         </motion.div>

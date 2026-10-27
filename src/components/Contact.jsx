@@ -16,10 +16,10 @@ const Contact = () => {
 
       <div className="contact-container">
         <div className="contact-text">
-          <h3>Looking for a Frontend Developer?</h3>
+          <h3>Open to UI/UX & Frontend Opportunities</h3>
 
           <p>
-            I'm open to frontend development opportunities where I can contribute my UI/UX experience, React skills, and passion for building user-focused web applications.
+            I'm a UI/UX Designer with professional experience designing user-focused digital products, currently expanding my frontend development skills with React and JavaScript. I'm interested in opportunities where I can contribute to thoughtful design and intuitive web experiences.
           </p>
 
           <a

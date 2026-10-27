@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer-container">
         <p>© 2026 Suhasini Phatak</p>
 
-        <p>Designed & Built with React</p>
+        <p>Designed with Figma · Built with React</p>
 
         <div className="footer-links">
           <a href="https://www.linkedin.com/in/suhasini-phatak-80b75125b/">LinkedIn</a>

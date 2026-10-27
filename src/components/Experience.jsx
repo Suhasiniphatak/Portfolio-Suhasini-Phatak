@@ -34,6 +34,7 @@ const Experience = () => {
               <span>Figma</span>
               <span>Design Systems</span>
               <span>Responsive Design</span>
+              <span>Prototyping</span>
             </div>
           </div>
         </div>
